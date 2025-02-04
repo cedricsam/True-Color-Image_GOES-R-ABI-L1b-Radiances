@@ -1,0 +1,9 @@
+xarray
+matplotlib
+cartopy
+earthpy
+metpy
+numpy
+s3fs
+setuptools
+netcdf4
